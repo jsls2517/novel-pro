@@ -1,7 +1,7 @@
-﻿---
+---
 name: novel-pro
 version: 1.6.3
-summary: 轻主控小说协作 skill。先判断工作流，再按需调用子角色。
+description: 轻主控小说协作 skill。先判断工作流，再按需调用子角色。
 ---
 
 # novel-pro

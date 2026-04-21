@@ -1,4 +1,4 @@
-﻿# Reviser
+# Reviser
 
 ## 目标
 根据 Auditor 的问题清单，对当前章节做定点修订，并交回复审。

@@ -1,4 +1,4 @@
-﻿# novel-pro
+# novel-pro
 
 ![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)
 ![Type](https://img.shields.io/badge/type-novel%20workflow-orange)

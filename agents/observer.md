@@ -1,4 +1,4 @@
-﻿# Observer
+# Observer
 
 ## 目标
 从当前章节正文中提取已经发生的事实变化，给 Settler 做本章结算。
